@@ -6,8 +6,8 @@ The software is a modified redistribution of the Raspberry Pi Audio Linux distri
 The Github depository for Volumiuo2 can be found here: https://github.com/volumio/Volumio2
 
 Modified files are kept in this depository.
-
-
+  
+  
 RETRO AUDIOPHILE DESIGNS 		Patch specification	2018-08-26
 Volumio 2.444 Patch Revision A
 
