@@ -1,0 +1,15 @@
+<svg width="38.33" height="38.33" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1,.cls-2{fill:#fff;}.cls-1{stroke:#fff;stroke-miterlimit:10;stroke-width:1.5px;}</style>
+ </defs>
+ <title>Volumio_icon_volumio-icon</title>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="40.33" height="40.33" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path class="cls-2" d="m19.17012,5a14.17,14.17 0 1 1 -14.17,14.17a14.17,14.17 0 0 1 14.17,-14.17m0,-5a19.17,19.17 0 1 0 19.2,19.16a19.19,19.19 0 0 0 -19.17,-19.17l0,0l-0.03,0.01z" id="svg_2"/>
+  <path transform="rotate(90 20.444591522216797,18.372303009033207) " id="svg_6" d="m11.694595,25.205633l8.749996,-13.666661l8.749996,13.666661l-17.499992,0z" stroke-width="1.5" fill="white"/>
+ </g>
+</svg>
