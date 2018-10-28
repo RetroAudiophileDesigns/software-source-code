@@ -7,7 +7,7 @@ The Github depository for Volumiuo2 can be found here: https://github.com/volumi
 
 Modified files are kept in this depository.
 
-=======================
+
 RETRO AUDIOPHILE DESIGNS 		Patch specification	2018-08-26
 Volumio 2.444 Patch Revision A
 
